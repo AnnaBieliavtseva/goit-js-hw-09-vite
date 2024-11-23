@@ -11,12 +11,15 @@
   justify-content: center;
 }
 .nav-list {
+  margin-left: 20px;
+  margin-top: 20px;
   display: flex;
   align-items: center;
-  justify-content: flex-end;
   gap: 40px;
 }
 .nav-link {
+  
+ 
   position: relative;
   display: block;
   font-weight: 500;
